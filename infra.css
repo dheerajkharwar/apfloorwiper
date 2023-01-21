@@ -1,0 +1,71 @@
+body {
+  background-color: rgb(250, 250, 250);
+  margin: auto;
+  overflow-x: hidden;
+}
+.top_head{
+  width: 100%;
+  height: auto;
+  background-color: rgb(192, 162, 162);
+  color: aliceblue;
+  font-family: cursive;
+  font-size: 3vw;
+  text-align: center;
+}
+.infra_disc p{
+    font-size: 1.3vw;
+    padding: 0px 50px 0px;
+}
+.infra_disc a{
+    font-size: 1.2vw;
+    font-family: cursive;
+    text-decoration: none;
+}
+h2{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 5px;
+    font-size: 2.5vw;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #e0e0e0;
+    box-shadow: rgba(0, 0, 0);
+
+}
+  .products{
+    background-color: #eee;
+    text-align: center;
+  }
+  
+  .products .product{
+    background-color: #fff;
+    display: inline-flex;
+    margin: 5px;
+    width: 35%;
+    height: auto;
+  }
+  
+  .product img {
+    text-align: center;
+    width: 100%;
+    height: auto;
+  }
+
+  .footer {
+    width: 100%;
+    height: auto;
+    background: #000;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+ .footer b{
+  font-size: 1.5vw;
+}
+.footer p{
+  font-size: 1vw;
+}
+
